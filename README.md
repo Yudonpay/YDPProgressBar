@@ -1,6 +1,5 @@
 # YDPProgressBar
 
-[![CI Status](https://img.shields.io/travis/José Miguel Herrero/YDPProgressBar.svg?style=flat)](https://travis-ci.org/José Miguel Herrero/YDPProgressBar)
 [![Version](https://img.shields.io/cocoapods/v/YDPProgressBar.svg?style=flat)](https://cocoapods.org/pods/YDPProgressBar)
 [![License](https://img.shields.io/cocoapods/l/YDPProgressBar.svg?style=flat)](https://cocoapods.org/pods/YDPProgressBar)
 [![Platform](https://img.shields.io/cocoapods/p/YDPProgressBar.svg?style=flat)](https://cocoapods.org/pods/YDPProgressBar)
