@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'YDPProgressBar_Example' do
+  pod 'YDPProgressBar', :path => '../'
+
+  target 'YDPProgressBar_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

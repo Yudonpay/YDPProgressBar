@@ -1,0 +1,16 @@
+PODS:
+  - YDPProgressBar (0.1.0)
+
+DEPENDENCIES:
+  - YDPProgressBar (from `../`)
+
+EXTERNAL SOURCES:
+  YDPProgressBar:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YDPProgressBar: 5fac524cc063c0c43003b12ac199b90fa77a08d2
+
+PODFILE CHECKSUM: d2aeb903ae1cef36c742d791b041303865679b60
+
+COCOAPODS: 1.6.0.rc.2

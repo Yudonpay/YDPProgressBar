@@ -1,0 +1,6 @@
+framework module YDPProgressBar {
+  umbrella header "YDPProgressBar-umbrella.h"
+
+  export *
+  module * { export * }
+}
