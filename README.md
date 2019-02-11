@@ -1,5 +1,5 @@
 <p align="center">
-<img src="">
+<img src="https://github.com/Yudonpay/YDPProgressBar/blob/master/Resources/Progress.gif">
 </p>
 <div align="center">
 <h1> YDPProgressBar</h1>
